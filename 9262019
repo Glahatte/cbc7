@@ -1,0 +1,59 @@
+<!DOCTYPE html!>
+<Lang="en">
+  <header>
+       <header class= header>
+      <h3>
+    The Delta Chi Fraternity was founded on October 13th, 1890 in Ithica New York at Cornell Univeristy. 
+       <p> The Augusta Chapter of Delta Chi was founded in 1983 and has been a cornerstone of Augusta University ever since.</p>
+  </header>
+  <body>
+    <body class="bg">
+      <div class= Intro_Paragraph>
+    As members of the Delta Chi fraternity we lay claim to numerous achivments on and off campus. We are one of the longest running organizations on campus, and the longest running Greek Organization. We also have the highest average GPA per member of any Greek organization <span class=GrayGrayBoast> AND  </span> the home chapter of God King Grayson LaHatte.
+      </div>
+      <div class= Join_us>
+        If you are interested in joining our brotherhood please fill out this form!
+      </div>
+      <div class ="rush_form">
+        <form action= "action_page.php">
+          <label for="fname">First Name</label>
+          <input type="text" id="fname" name="firstname"">
+       <p> <label for "lname">Last Name</label>
+       <input type="text" id="lname" name="Lastname">
+       </p>
+       <p>
+      <label for="Phonenumber">Phone Number</label>
+          <input type="text" id="Phonenumber"< name="Phonenumber">
+      </p>
+                                                                 
+                                                                 
+       
+       <p>
+                                                 
+      <script>
+                                                        
+  function clickAlert() {
+    alert("Fuck you");
+}
+</script>
+
+<input type="button" onclick="clickAlert()" value="Sign up!"
+                        
+                                                            
+                                                            
+       <div>
+       <div class= about_us>
+        <p>
+        The chapter is currently being led by the wise leadership of Michael Allthedicks. Hes the one in the middle. Not the ugly fucks on the left or right </div>
+                                                                 </p>
+   <img src="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/58814610_2284883351532623_4055630720171769856_n.jpg?_nc_cat=106&_nc_oc=AQnEfsrRoK_TP6q38WVA0f2EtopN9LT2ZvoAAUuJ3C1gbf18Zdrf1EK4yD0VLwPf7rE&_nc_ht=scontent-dfw5-2.xx&oh=7955c20a2e63ac15b522fd50ab76bfae&oe=5DEF3428"); alt="Fuck you it aint broken" 
+   style="width: 450px;"
+                        </div>
+   <div class="dab">
+      <img src= "https://media.giphy.com/media/l46CySTsO9JqWL8di/giphy.gif">
+                                                                           <div style
+                                                                           </div>
+          
+    
+                                                                
+                                                       
