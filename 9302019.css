@@ -1,0 +1,46 @@
+@media only screen and (max-width: 600px){
+  body{
+    background-color: green;
+    font-size: 70px; 
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    grid-row-gap: 100px;
+  }
+}
+#container{
+  width: 200vw;}
+
+  .grid-container{
+    display: inline-grid;
+    grid-column-gap: 300px;
+    grid-template-columns: auto auto auto auto;
+  }
+
+
+
+.viewport-1{
+  
+  background-size: cover;
+background-image: url("https://www.rei.com/blog/wp-content/uploads/2018/11/teton-hero.png");
+  height: 100vh;
+  width: 50vw;
+}
+  <style>
+.viewport-1.slideright:hover{
+  -webkit-transform: translate (3em, 0);
+  -ms-transform: translate(3em,0);
+  transform: translate(3em,0);
+}
+
+.viewport-2
+{
+  background-size: cover;
+ 
+float:right;
+
+background-image: url("https://pra.com/wp-content/uploads/2018/09/img-d-tahoe-840x560.jpg");
+  height: 100vh;
+  width: 50vw;
+  display: block;
+
+}
