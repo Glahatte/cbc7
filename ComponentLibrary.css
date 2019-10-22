@@ -1,0 +1,180 @@
+#TriangleArrow
+{position: absolute;
+width: 146px;
+height: 145px;
+
+background: #95A472;
+
+
+/* Arrow 2 */
+
+
+position: absolute;
+width: 135.67px;
+height: 0px;
+
+border: 4px solid #60A561;
+box-sizing: border-box;
+transform: rotate(-18.03deg);
+
+
+/* Line 1 */
+
+
+position: absolute;
+width: 120.22px;
+height: 0px;
+
+border: 2px solid #DDFCAD;
+transform: rotate(121.05deg);
+
+
+/* Arrow 1 */
+
+
+position: absolute;
+width: 65.73px;
+height: 0px;
+
+border: 3px solid #E34A6F;
+transform: rotate(-13.19deg);
+}
+
+
+
+#ArrowCricleSquare
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 356px;
+height: 361px;
+
+background: #E34A6F;
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 356px;
+height: 361px;
+
+background: #DDFCAD;
+
+
+/* Line 1 */
+
+
+position: absolute;
+width: 507.01px;
+height: 0px;
+
+border: 3px solid #6BAB90;
+transform: rotate(45.4deg);
+
+
+/* Line 2 */
+
+
+position: absolute;
+width: 507.01px;
+height: 0px;
+
+border: 3px solid #6BAB90;
+transform: rotate(-45.4deg);
+
+
+/* Arrow 1 */
+
+
+position: absolute;
+width: 244px;
+height: 0px;
+
+border: 10px solid #60A561;
+box-sizing: border-box;}
+
+
+#SquareOvalLines{
+    /* Rectangle 1 */
+
+
+position: absolute;
+width: 477px;
+height: 400px;
+
+background: #E34A6F;
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 223px;
+height: 161px;
+
+background: #60A561;
+
+
+/* Ellipse 1 */
+
+
+position: absolute;
+width: 75px;
+height: 168px;
+
+background: #95A472;
+
+
+/* Arrow 1 */
+
+
+position: absolute;
+width: 318px;
+height: 0px;
+
+border: 1px solid #DDFCAD;
+box-sizing: border-box;
+transform: rotate(90.18deg);
+
+
+/* Arrow 2 */
+
+
+position: absolute;
+width: 331.01px;
+height: 0px;
+
+border: 1px solid #BBAABB;
+box-sizing: border-box;
+transform: rotate(-89.65deg);
+}
+
+
+#Toit{
+    position: absolute;
+    width: 492.04px;
+    height: 227.5px;
+    
+    background: #C4C4C4;
+    mix-blend-mode: normal;
+    border: 8px solid #DDFCAD;
+    
+    
+    /* TOIT */
+    
+    
+    position: absolute;
+    width: 194px;
+    height: 47px;
+    
+    font-family: The Girl Next Door;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 96px;
+    line-height: 177px;
+    
+    color: #E34A6F;
+    
+    transform: rotate(17.32deg);}
